@@ -1,0 +1,4 @@
+---
+# vars file for roles/webservers
+path_to_app: "/var/www/html"
+anisble_python_interpeter: "usr/bin/python3"
